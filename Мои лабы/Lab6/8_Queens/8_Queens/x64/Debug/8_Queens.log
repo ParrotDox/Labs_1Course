@@ -1,0 +1,5 @@
+﻿  8_Queens.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab6\8_Queens\8_Queens\8_Queens.cpp(75,2): error C2561: attempToSet: функция должна возвращать значение
+  C:\Users\Егор\Desktop\Labs\Мои лабы\Lab6\8_Queens\8_Queens\8_Queens.cpp(49,6):
+   см. объявление "attempToSet"
+  

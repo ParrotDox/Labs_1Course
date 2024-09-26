@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 6 strings\Strings\Strings\Source.cpp(69,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 6 strings\Strings\Strings\Source.cpp(65,1): warning C4715: list_of_words: значение возвращается не при всех путях выполнения
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Strings.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 6 strings\Strings\x64\Debug\Strings.exe

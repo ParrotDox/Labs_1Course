@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\streams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|solutionrelative:OOP 5\\streams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methodsStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|solutionrelative:OOP 5\\methodsStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methodsPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|solutionrelative:OOP 5\\methodsPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|solutionrelative:OOP 5\\methods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6349A4F2-62B5-4829-B2B2-1E2546473080}|OOP 5\\OOP 5.vcxproj|solutionrelative:OOP 5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "methods.h",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methods.h",
+              "RelativeDocumentMoniker": "OOP 5\\methods.h",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methods.h",
+              "RelativeToolTip": "OOP 5\\methods.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T19:58:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\Source.cpp",
+              "RelativeDocumentMoniker": "OOP 5\\Source.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\Source.cpp",
+              "RelativeToolTip": "OOP 5\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T19:58:20.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "streams.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\streams.cpp",
+              "RelativeDocumentMoniker": "OOP 5\\streams.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\streams.cpp",
+              "RelativeToolTip": "OOP 5\\streams.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T08:51:50.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "methodsStudent.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methodsStudent.cpp",
+              "RelativeDocumentMoniker": "OOP 5\\methodsStudent.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methodsStudent.cpp",
+              "RelativeToolTip": "OOP 5\\methodsStudent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T07:24:10.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "methodsPerson.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methodsPerson.cpp",
+              "RelativeDocumentMoniker": "OOP 5\\methodsPerson.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\!!!OOP 5\\OOP 5\\OOP 5\\methodsPerson.cpp",
+              "RelativeToolTip": "OOP 5\\methodsPerson.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T19:58:38.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

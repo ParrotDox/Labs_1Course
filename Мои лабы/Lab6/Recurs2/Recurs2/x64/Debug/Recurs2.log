@@ -1,0 +1,4 @@
+﻿  recur2.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab6\Recurs2\Recurs2\recur2.cpp(27,1): warning C4715: fibonachi: значение возвращается не при всех путях выполнения
+  recur2.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Recurs2.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\Lab6\Recurs2\x64\Debug\Recurs2.exe

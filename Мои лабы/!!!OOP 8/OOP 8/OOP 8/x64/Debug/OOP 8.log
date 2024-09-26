@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP 8\OOP 8\OOP 8\Header.h(203,1): warning C4715: vec::operator[]: значение возвращается не при всех путях выполнения
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OOP 8.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP 8\OOP 8\x64\Debug\OOP 8.exe

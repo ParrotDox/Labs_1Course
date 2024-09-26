@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  methods.cpp
+  Создание кода...
+C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP 6\OOP 6\OOP 6\methods.cpp(112,1): warning C4715: list::operator[]: значение возвращается не при всех путях выполнения
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OOP 6.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP 6\OOP 6\x64\Debug\OOP 6.exe

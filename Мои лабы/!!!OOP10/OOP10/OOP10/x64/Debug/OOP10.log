@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP10\OOP10\OOP10\Header.h(52,12): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP10\OOP10\OOP10\Header.h(61,15): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OOP10.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP10\OOP10\x64\Debug\OOP10.exe

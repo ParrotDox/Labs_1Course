@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045188D3-42E2-4179-910C-601630137D82}|OOP 3\\OOP 3.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{045188D3-42E2-4179-910C-601630137D82}|OOP 3\\OOP 3.vcxproj|solutionrelative:OOP 3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045188D3-42E2-4179-910C-601630137D82}|OOP 3\\OOP 3.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\methods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{045188D3-42E2-4179-910C-601630137D82}|OOP 3\\OOP 3.vcxproj|solutionrelative:OOP 3\\methods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045188D3-42E2-4179-910C-601630137D82}|OOP 3\\OOP 3.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\methods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{045188D3-42E2-4179-910C-601630137D82}|OOP 3\\OOP 3.vcxproj|solutionrelative:OOP 3\\methods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "methods.h",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\methods.h",
+              "RelativeDocumentMoniker": "OOP 3\\methods.h",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\methods.h",
+              "RelativeToolTip": "OOP 3\\methods.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T09:24:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "methods.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\methods.cpp",
+              "RelativeDocumentMoniker": "OOP 3\\methods.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\methods.cpp",
+              "RelativeToolTip": "OOP 3\\methods.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T09:24:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\Source.cpp",
+              "RelativeDocumentMoniker": "OOP 3\\Source.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\Labs\\\u041C\u043E\u0438 \u043B\u0430\u0431\u044B\\OOP 3\\OOP 3\\OOP 3\\Source.cpp",
+              "RelativeToolTip": "OOP 3\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T09:24:26.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

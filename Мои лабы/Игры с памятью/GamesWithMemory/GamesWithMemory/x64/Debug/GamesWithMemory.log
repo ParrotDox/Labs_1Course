@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\Игры с памятью\GamesWithMemory\GamesWithMemory\Source.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  GamesWithMemory.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\Игры с памятью\GamesWithMemory\x64\Debug\GamesWithMemory.exe

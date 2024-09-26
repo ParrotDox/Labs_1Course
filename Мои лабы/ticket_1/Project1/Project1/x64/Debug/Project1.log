@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Егор\Desktop\Labs\Мои лабы\ticket_1\Project1\Source.cpp(7,1): warning C4700: использована неинициализированная локальная переменная "number"
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\ticket_1\Project1\x64\Debug\Project1.exe

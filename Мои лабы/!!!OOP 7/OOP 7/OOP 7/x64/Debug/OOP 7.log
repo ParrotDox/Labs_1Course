@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP 7\OOP 7\OOP 7\methods.h(230,1): warning C4715: list<char>::operator[]: значение возвращается не при всех путях выполнения
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OOP 7.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\!!!OOP 7\OOP 7\x64\Debug\OOP 7.exe

@@ -1,0 +1,27 @@
+﻿  Overload.cpp
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,36): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,45): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,56): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,66): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,76): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,85): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,92): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,102): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(67,112): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(38,9): warning C4244: return: преобразование "int" в "T", возможна потеря данных
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(38,9): warning C4244:         with
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(38,9): warning C4244:         [
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(38,9): warning C4244:             T=float
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(38,9): warning C4244:         ]
+  C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(38,9):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\OverLoadedFunc\Overload.cpp(68,2):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "T even_element<float>(T [],const int,int)"
+          with
+          [
+              T=float
+          ]
+  
+  Overload.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OverLoadedFunc.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 7.1-7.2\OverLoadedFunc\x64\Debug\OverLoadedFunc.exe

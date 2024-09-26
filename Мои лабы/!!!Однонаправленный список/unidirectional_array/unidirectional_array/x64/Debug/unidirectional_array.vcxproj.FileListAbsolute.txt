@@ -1,0 +1,2 @@
+C:\Users\Егор\Desktop\Labs\Мои лабы\Однонаправленный список\unidirectional_array\unidirectional_array\x64\Debug\unidirectional_array.vcxproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Labs\Мои лабы\!!!Однонаправленный список\unidirectional_array\unidirectional_array\x64\Debug\unidirectional_array.vcxproj.AssemblyReference.cache

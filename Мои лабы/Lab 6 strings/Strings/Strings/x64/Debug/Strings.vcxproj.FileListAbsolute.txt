@@ -1,0 +1,2 @@
+C:\Users\Егор\Desktop\Динамическая память\Strings\Strings\x64\Debug\Strings.vcxproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Labs\Мои лабы\Lab 6 strings\Strings\Strings\x64\Debug\Strings.vcxproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  methods.cpp
+  Создание кода...
+C:\Users\Егор\Desktop\Labs\Мои лабы\OOP 1\OOP_1\OOP_1\methods.cpp(31,1): warning C4715: arithmetic_progression::getPrivate: значение возвращается не при всех путях выполнения
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OOP_1.vcxproj -> C:\Users\Егор\Desktop\Labs\Мои лабы\OOP 1\OOP_1\x64\Debug\OOP_1.exe
